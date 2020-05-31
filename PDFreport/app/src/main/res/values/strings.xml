@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PDF report</string>
+    <string-array name="menu_spinner">
+        <item>Pilih Kopi</item>
+        <item>Kopi SOE</item>
+        <item>Kopi Janji Jiwa</item>
+        <item>Kopi Kenangan</item>
+        <item>Fore Coffee</item>
+        <item>Kedai Kopi Kulo</item>
+    </string-array>
+</resources>
